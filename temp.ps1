@@ -1,4 +1,4 @@
-#!/usr/bin/pwsh -Command
+#!/usr/bin/env bash
 
 
 echo "hello world"
