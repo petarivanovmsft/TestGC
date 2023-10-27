@@ -1,6 +1,3 @@
-#!/usr/bin/env bash
-
-
 echo "hello world"
 mkdir /home/windows/COMPLETE
 ls >> ls.txt
